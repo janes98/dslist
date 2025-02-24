@@ -5,7 +5,7 @@ import com.devsuperior.dslist.entities.GameList;
 public class GameListDTO {
 	
 	private Long id;
-	private String name;
+	private String name;  
 	
     public GameListDTO() {
     	

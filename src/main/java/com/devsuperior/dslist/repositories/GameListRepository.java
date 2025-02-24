@@ -10,3 +10,4 @@ public interface GameListRepository extends JpaRepository<GameList, Long> {
 
 }
 
+          
